@@ -1,0 +1,90 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(51, 152, 204);
+}
+
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.image1{
+    display: flex;
+    align-items: center;
+}
+
+.propos{
+    display: block;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+
+.ajout{
+    color:black;
+}
+
+.image button{
+    color: black;
+}
+
+.image a{
+    color: black;
+}
+
+
+#form {
+    width:80%;
+    padding: 30px;
+    border: 1px solid black;
+    background: #6272ca;
+    
+    border-radius: 3%;
+    margin: auto;
+    text-align: center;
+    
+}
+.container {
+    width: 100%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+
+input[type=text]  {
+    width: 50%;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-left: 13.5%;
+}
+
+input[id=password]{
+    width: 50%;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-left: 7%;
+    
+
+}
+
+
+
+
